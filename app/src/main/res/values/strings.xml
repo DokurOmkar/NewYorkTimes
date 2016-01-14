@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NewYorkTimes</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Top Stories</item>
+        <item>Most Popular</item>
+        <item>Movie Reviews</item>
+        <item>Books</item>
+        <item>Event Listings</item>
+        <item>Articles</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/topstories</item>
+        <item>@drawable/mostpopular</item>
+        <item>@drawable/movie</item>
+        <item>@drawable/book</item>
+        <item>@drawable/event</item>
+        <item>@drawable/article</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
